@@ -1,0 +1,13 @@
+Problem:
+1. Create REST APIs endpoint with any JAVA framework ex(Spring MVC,boot, Jersy etc)
+2. API endpoints {domain}/api/getproductdetails and {domain}api/getconfigdetails
+3. Basic Authentication should be enabled for each end points and authentication creds should be different
+4. Return a static json response with proper response code.
+
+
+Acceptance criteria:
+1. Readme file instructions needs to crystal clear
+2. Dependencies and installation instruction should be listed.
+3. Code needs to cpmpiled in JAVA 10 and above
+4. Should execute expected results
+5. Checkin the code to your git repo and provide public access
