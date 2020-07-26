@@ -8,6 +8,7 @@ import myapp.domain.Product;
 @Service
 public class AppServiceImpl implements AppService{
 	public Product getProductById(int id) {
+		//Get Product based on product id
 		Product product=null;
 		if(id>0)
 		{
